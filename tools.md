@@ -15,3 +15,5 @@
 + [jadx](https://github.com/skylot/jadx),Dex to Java decompiler
 
 + [enjarify](https://github.com/Storyyeller/enjarify),Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications.
+
++ [arscblamer](https://github.com/google/android-arscblamer),ArscBlamer is a command-line tool that can parse an Android app's resources.arsc file and extract useful, actionable information about its contents
