@@ -7,3 +7,11 @@
 + [VirtualUETool](https://github.com/zhangke3016/VirtualUETool),VirtualUETool 扩展自UETool实现，底层基于VirtualApp的实现。可以作用于任何App在屏幕上显示的 view，比如 Activity/Fragment/Dialog/PopupWindow 等等。
 
 + [epic](https://github.com/tiann/epic),Dynamic java method AOP hook for Android(continution of Dexposed on ART), Supporting 4.0~10.0
+
++ [apktool](https://bitbucket.org/iBotPeaches/apktool/downloads/)
+
++ [开发者助手](https://www.coolapk.com/apk/com.toshiba_dealin.developerhelper)
+
++ [jadx](https://github.com/skylot/jadx),Dex to Java decompiler
+
++ [enjarify](https://github.com/Storyyeller/enjarify),Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications.
