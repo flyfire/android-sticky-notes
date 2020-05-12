@@ -5,3 +5,4 @@
 + Key Promoter X
 + Material Theme UI
 + Native Terminal
++ WakaTime
